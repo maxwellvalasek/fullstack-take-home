@@ -45,8 +45,9 @@ You are encouraged to make the UI polished and user-friendly, and demonstrate th
 
 ## Backend
 **Completing the API**
-Please fill in the blank for the `POST /upload` endpoint
+Please fill in the blank for the `POST /upload` endpoint to make the endpoint functional
 
+Run the server using the following:
 ```bash
 pip install fastapi uvicorn python-multipart pydantic
 uvicorn main:app --reload
