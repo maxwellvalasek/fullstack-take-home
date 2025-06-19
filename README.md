@@ -1,4 +1,18 @@
-# Cashmere: Frontend Take Home
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f1f2f627-d253-4d58-9333-64d410582818" alt="Cashmere Logo" height="50" />
+</p>
+
+<h1 align="center">Cashmere: Frontend Take-Home</h1>
+
+<p align="center">
+  Built by <strong>Max Valasek</strong>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/af364688-b458-404f-8897-fba30a41dca6" alt="Project Screenshot" width="80%" />
+</p>
+
+---
 
 ## Installation
 
