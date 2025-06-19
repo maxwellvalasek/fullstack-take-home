@@ -100,7 +100,25 @@ Follow these steps to create and arrange your media portfolio:
 
 ---
 
+## API Endpoints
 
+The FastAPI backend handles media uploads and portfolio persistence:
+
+- **POST `/upload`**  
+  Handles image/video file uploads.  
+  - Accepts `multipart/form-data` with a `file` field.  
+  - Saves file with a UUID-based filename.  
+  - Returns the file path and metadata (e.g., dimensions, duration).
+
+- **GET `/portfolio`**  
+  Returns the saved portfolio state from `portfolio_db.json`.
+
+- **POST `/save`**  
+  Accepts a JSON body representing the full portfolio state.  
+  - Overwrites `portfolio_db.json` with the submitted data.  
+  - Used by the save button in the UI to persist layout and items.
+
+Uploaded media is served statically via FastAPI from the `uploads/` directory with correct MIME types.
 
 
 
