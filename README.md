@@ -12,6 +12,18 @@
   <img src="https://github.com/user-attachments/assets/af364688-b458-404f-8897-fba30a41dca6" alt="Project Screenshot" width="80%" />
 </p>
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/a35898a6-185d-447a-b616-f07a9758c187" alt="Drag Example" height="300" /><br/>
+    </td>
+    <td>&nbsp;&nbsp;&nbsp;</td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/2808a0d6-be29-4568-8f31-7c450c354319" alt="Upload Modal" height="300" /><br/>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## Overview
