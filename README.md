@@ -13,6 +13,23 @@
 </p>
 
 ---
+
+## Overview
+
+- **Frontend:** Next.js, Tailwind CSS
+- **State:** Centralized Zustand store
+- **Persistence:** FastAPI API saving to custom `portfolio_db.json`
+
+---
+## ✨ Notable Extra Features
+
+- **Drag and Drop** — Rearrange media within and across sections.
+- **Inline Edit & Delete** — Hover to quickly edit or remove items.
+- **Auto Metadata Extraction** — Pulls titles, image size, video length.
+- **Hover Metadata** — Shows title, type, and dimensions on hover.
+- **Smart Save Button** — Only appears when changes are unsaved.
+- **Smooth Animations** — Transitions for drag, collapse, hover, etc.
+---
 ## How to Use
 
 Follow these steps to create and arrange your media portfolio:
@@ -80,6 +97,10 @@ Follow these steps to create and arrange your media portfolio:
 
 5. **Access the application**
    - http://localhost:3000
+
+---
+
+
 
 
 
