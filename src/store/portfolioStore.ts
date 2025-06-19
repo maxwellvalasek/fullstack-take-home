@@ -45,7 +45,7 @@ export const usePortfolioStore = create<PortfolioStore>((set, get) => ({
   setEntireState: (newState) => set({ ...newState, hasUnsavedChanges: false }),
 
   addItem: (item) => set((state) => ({
-    items: [...state.items, { ...item, category: null }],
+    items: [...state.items, item],
     hasUnsavedChanges: true
   })),
 
