@@ -1,25 +1,26 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/f1f2f627-d253-4d58-9333-64d410582818" alt="Cashmere Logo" height="50" />
-</p>
-
 <h1 align="center">Cashmere: Frontend Take-Home</h1>
 
 <p align="center">
   Built by <strong>Max Valasek</strong>
 </p>
 
+<!-- Demo Video -->
+<p align="center"><strong>Demo Video</strong></p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/af364688-b458-404f-8897-fba30a41dca6" alt="Project Screenshot" width="80%" />
+  <video src="https://github.com/user-attachments/assets/7d747779-a7fd-40ea-bd1a-24540c25bc74" height="300" autoplay loop muted playsinline style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"></video>
 </p>
 
-<table align="center">
+<!-- Screenshots -->
+<table align="center" style="margin-top: 20px;">
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/a35898a6-185d-447a-b616-f07a9758c187" alt="Drag Example" height="300" /><br/>
+      <img src="https://github.com/user-attachments/assets/a35898a6-185d-447a-b616-f07a9758c187" alt="Drag Example" height="300" style="border-radius: 8px;" /><br/>
+      <p><strong>Drag & Drop</strong></p>
     </td>
-    <td>&nbsp;&nbsp;&nbsp;</td>
+    <td style="width: 40px;"></td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/2808a0d6-be29-4568-8f31-7c450c354319" alt="Upload Modal" height="300" /><br/>
+      <img src="https://github.com/user-attachments/assets/2808a0d6-be29-4568-8f31-7c450c354319" alt="Upload Modal" height="300" style="border-radius: 8px;" /><br/>
+      <p><strong>Upload Modal</strong></p>
     </td>
   </tr>
 </table>
