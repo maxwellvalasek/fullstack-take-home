@@ -202,7 +202,7 @@ export default function Gallery() {
           e.currentTarget.style.color = 'white';
         }}
       >
-        ＋ New Section
+        ＋ New Category
       </button>
     </div>
   );

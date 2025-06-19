@@ -179,7 +179,7 @@ export default function UploadForm({ onSuccess, editItem }: Props) {
 
       <textarea
         className={commonStyles.textareaOutline}
-        placeholder="Description"
+        placeholder="Description (optional)"
         value={description}
         onChange={(e) => setDesc(e.target.value)}
         disabled={isLoading}
