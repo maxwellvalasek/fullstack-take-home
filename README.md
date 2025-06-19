@@ -39,7 +39,7 @@
 - **Inline Edit & Delete** — Hover to quickly edit or remove items.
 - **Auto Metadata Extraction** — Pulls titles, image size, video length.
 - **Hover Metadata** — Shows title, type, and dimensions on hover.
-- **Smart Save Button** — Only appears when changes are unsaved.
+- **Smart Save Button** — Notifies when changes are unsaved.
 - **Smooth Animations** — Transitions for drag, collapse, hover, etc.
 - **Professional UX Styling** — Custom responsive layout.
 
