@@ -29,6 +29,7 @@
 - **Hover Metadata** — Shows title, type, and dimensions on hover.
 - **Smart Save Button** — Only appears when changes are unsaved.
 - **Smooth Animations** — Transitions for drag, collapse, hover, etc.
+- **Professional UX Styling** — Custom responsive layout.
 ---
 ## How to Use
 
