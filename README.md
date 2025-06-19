@@ -121,20 +121,5 @@ Follow these steps to create and arrange your media portfolio:
    Hover over a media item to reveal icons in the top-right corner.
     Click the 🖊️ to **edit**. Click the 🗑️ to **delete**.
      
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/a35898a6-185d-447a-b616-f07a9758c187" alt="Drag Example" height="400" /><br/>
-      <sub><strong>Drag and Drop</strong></sub>
-    </td>
-    <td>&nbsp;&nbsp;&nbsp;</td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/2808a0d6-be29-4568-8f31-7c450c354319" alt="Upload Modal" height="400" /><br/>
-      <sub><strong>Upload Menu</strong></sub>
-    </td>
-  </tr>
-</table>
-
-
 ---
 
