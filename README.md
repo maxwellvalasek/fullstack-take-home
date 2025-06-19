@@ -19,12 +19,9 @@
 
 4. **Start Development Servers**
    
-   **Terminal 1 - Backend:**
    ```bash
    uvicorn main:app --reload
    ```
-   
-   **Terminal 2 - Frontend:**
    ```bash
    npm run dev
    ```
