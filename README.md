@@ -44,8 +44,3 @@
 
 5. **Access the application**
    - http://localhost:3000
-
-
-
-
-![image](https://github.com/user-attachments/assets/af364688-b458-404f-8897-fba30a41dca6)
